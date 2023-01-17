@@ -6,8 +6,7 @@ gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [SDTM]
 comments: true
-include: false
-transitions:
+include: false transitions:
 ---
 
 **Background Story :**
