@@ -27,3 +27,11 @@ subtitle: 不论高低 只论坚持
 
 
 - [Definition of a new blood cell count score for early survival prediction for non-small cell lung cancer patients treated with atezolizumab: Integrated analysis of four multicenter clinical trials](https://www.frontiersin.org/articles/10.3389/fimmu.2022.961926/full)
+
+
+### Favorite Study Goods
+
+- Sailor 
+- Lamy
+- Midori
+- Hobonichi
