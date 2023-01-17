@@ -5,6 +5,8 @@ subtitle: 不论高低 只论坚持
 
 ---
 
+![avatar](/Users/fangya/Desktop/DSC01060.JPG)
+
 ### Now
 
 - 🐰  I am a Data Science Ph.D. Candidate in Harrisburg University 
