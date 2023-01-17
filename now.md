@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 title: About Me
 subtitle: 不论高低 只论坚持
 
