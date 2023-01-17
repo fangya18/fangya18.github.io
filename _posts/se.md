@@ -1,10 +1,10 @@
 ---
 layout: post
 title: SDTM: SE Subject Element Domain
-subtitle: Each post also has a subtitle
+subtitle: SE
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: [SDTM]
 comments: true
 ---
 
