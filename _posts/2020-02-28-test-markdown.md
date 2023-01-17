@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sample blog post
+title: SDTM: SE Subject Element Domain
 subtitle: Each post also has a subtitle
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
@@ -8,71 +8,67 @@ tags: [test]
 comments: true
 ---
 
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+**Background Story :**
 
-**Here is some bold text**
+One day, my friend 99 discussed with me if a patient is randomized but not treated has some lab results besides screening, how should we classify the EPOCH variable for him/her in SE domain?
+So today we will go over a basic example for SE domain: Subject Element.
 
-## Here is a secondary heading
+**Purpose:**
 
-Here's a useless table:
+The SE stores treatment data linked together with demographic data and Trial Design data,  which is possible to standardize and create unique data-driven mapping for a high level view of study.
 
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
+**Basics:**
+
+SE (Subject Element) contains subject level data about the timings of each subject transition from one element period to the other (screening, treatment, follow-up) and the treatment information (active, non-active) from multiple sources.
 
 
-How about a yummy crepe?
 
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
 
-It can also be centered!
+**Key Variables:**
 
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
+STUDYID, DOMAIN, USUBJID, SESEQ, ETCD, ELEMENT, SESTDTC, SEENDTC,TAETORD,EPOCH
 
-Here's a code chunk:
+Variable Derivation Rules:
 
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
+*1.Seseq
+Sequential number is unique for the records within the domain by USUBJID.
 
-And here is the same code with syntax highlighting:
+*2.ETCD
+Element Code is assigned (SCREEN, Treatment, Placebo, FUP).
 
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
+*3.ELEMENT
+Description of Element is assigned.(Screening, Treatment info, Follow up).
 
-And here is the same code yet again but with line numbers:
+*4.SESTDTC
+Start date of the element depends on Planned Arm
+relates to Informed consent date, Reference start date, Treatment Exposure Date.
 
-{% highlight javascript linenos %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
+*5.SEENDTC
+End date of the elements equal to the next SESTDTC of next element.
 
-## Boxes
-You can add notification, warning and error boxes like this:
+*6.TAETORD
+Planned Order of Elements within Arm is directly from TA
 
-### Notification
+*7.EPOCH
+Epoch is directly from TE.EPOCH
+it originated from to reference start/end date.
 
-{: .box-note}
-**Note:** This is a notification box.
 
-### Warning
 
-{: .box-warning}
-**Warning:** This is a warning box.
 
-### Error
+**SE Mini Sample Data Set: **
 
-{: .box-error}
-**Error:** This is an error box.
+
+
+
+Note: The dataset is a dummy sample, real data will have different SESTDTC, SEENDTC dates
+
+To end the story we started, SE would only keep the Screening record for a patient without treatment even he/she has follow up records.
+
+Thanks 99 for sharing a case study with me!
+
+Happy Studying!
+
+*Ref:*
+
+https://www.lexjansen.com/pharmasug/2010/CD/CD08.pdf
