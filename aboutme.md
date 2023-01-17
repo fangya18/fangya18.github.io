@@ -4,9 +4,6 @@ layout: page
 cover-img: /assets/img/IMG_0009.JPG
 ---
 
- <img src="https://imgur.com/itGtb0H.png" width="400" align="center">
- 
-
 
 ### Now
 
