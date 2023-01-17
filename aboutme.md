@@ -6,6 +6,13 @@ subtitle: 不论高低 只论坚持
 ---
 
  <img src="https://imgur.com/itGtb0H.png" width="200" align="center">
+ 
+ img[src$="https://imgur.com/itGtb0H.png"] {
+  display: block;
+  margin: 0 auto;
+  border-radius: 50%;
+  max-width: 50%;
+}
 
 ### Now
 
