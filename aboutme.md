@@ -5,7 +5,7 @@ subtitle: 不论高低 只论坚持
 
 ---
 
- <img src="/Users/fangya/Desktop/DSC01060.JPG">
+ <img src="https://imgur.com/itGtb0H.png" width="200" align="center">
 
 ### Now
 
