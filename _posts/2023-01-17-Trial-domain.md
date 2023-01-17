@@ -7,9 +7,7 @@ share-img: /assets/img/path.jpg
 tags: [SDTM,Clinical Trail]
 ---
 
-BACKGROUND :
-
-We finally we over the 5 study design trials, TA, TE, TI, TV, TS. As we mentioned last time, TS acts like the outline of the puzzle, how can we fit the puzzles together? What are the relations between these five datasets?
+BACKGROUND : We finally we over the 5 study design trials, TA, TE, TI, TV, TS. As we mentioned last time, TS acts like the outline of the puzzle, how can we fit the puzzles together? What are the relations between these five datasets?
 
 Rather than focusing on individual datasets, today we will connect the 5 trial design datasets together with a good story line!
 
