@@ -1,6 +1,6 @@
 ---
 layout: page
-
+title: Hola
 cover-img: /assets/img/IMG_0009.JPG
 ---
 
