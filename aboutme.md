@@ -5,7 +5,7 @@ subtitle: 不论高低 只论坚持
 
 ---
 
-![avatar](https://imgur.com/t6DRnhq)
+ <img src="https://imgur.com/t6DRnhq.png>
 
 ### Now
 
