@@ -7,9 +7,9 @@ subtitle: 不论高低 只论坚持
 
 ### Now
 
-- 👩‍🎓  I am a Data Science Ph.D. Candidate in Harrisburg University 
+- 🐰  I am a Data Science Ph.D. Candidate in Harrisburg University 
 - ✨  My research interests lie in Machine Learning and Survival Analysis 
-- 🎼  I am interested in combine Deep Learning Algorithms in Music
+- 🎼  I am interested in combine Deep Learning Algorithms in Music and Art
 - 🍊  I play the violin and in the band Hand Squeeze Orange
 - 📝 2023 一起爬墙刷街还有做题吧! 🧗‍♀️ 🏄🏻‍♂️ 
 
