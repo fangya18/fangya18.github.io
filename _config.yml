@@ -20,12 +20,12 @@ author: Fangya
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  Now: "https://fangya18.github.io"
   Publications:
     - Kaggle: "https://www.kaggle.com/fangya"
     - Research Work: "https://www.researchgate.net/profile/Fangya-Tan"
     - Bilibili: "https://space.bilibili.com/394390651?spm_id_from=333.1007.0.0"
-  DS Blog: "https://fangya18.github.io"
+  DS Blog: "https://fangya18.github.io/post"
 
 ################
 # --- Logo --- #
