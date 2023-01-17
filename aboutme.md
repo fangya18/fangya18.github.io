@@ -7,12 +7,13 @@ subtitle: 不论高低 只论坚持
 
 ### Now
 
-- I am Data Science Ph.D. Candidate in Harrisburg University of Science and Technology
+- I am a Data Science Ph.D. Candidate in Harrisburg University of Science and Technology
 - My research interests lie in the general area of Machine Learning and Survival Analysis 
 - I am currently working in Reinforcement Learning with Bowen Long
-- I am interested in the research area of Deep Bach or Machine Learning in Music
+- I am interested in combine Deep Learning Algorithms in Music
 - I am a violinist in Hand Squeeze Orange
 
+*Updated Jan.16. 2023*
 
 
 ### Recent Publication
