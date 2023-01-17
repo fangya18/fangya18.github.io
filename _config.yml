@@ -13,7 +13,7 @@
 title: Fangya Tan
 
 # Your name to show in the footer
-author: Some Person
+author: Fangya 
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -21,10 +21,11 @@ author: Some Person
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Publications:
+    - Kaggle: "https://www.kaggle.com/fangya"
+    - Research Work: "https://www.researchgate.net/profile/Fangya-Tan"
+    - Bilibili: "https://space.bilibili.com/394390651?spm_id_from=333.1007.0.0"
+  DS Blog: "https://fangya18.github.io"
 
 ################
 # --- Logo --- #
@@ -49,13 +50,12 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "fangya@example.com"
+  email: "ftan1@my.harrisburgu.edu"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+  github: fangya18
+ # twitter: daattali
+ # patreon: DeanAttali
+ # youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
@@ -72,9 +72,9 @@ social-network-links:
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  ORCID: your ORCID ID
-#  google-scholar: your google scholar
+  google-scholar: https://scholar.google.com/citations?hl=en&user=0UV81wYAAAAJ
 #  discord: invite/invite_code or users/userid 
-#  kaggle: yourname
+  kaggle: fangya
 #  hackerrank: yourname
 
 # If you want your website to generate an RSS feed, provide a description
