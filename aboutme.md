@@ -13,7 +13,7 @@ cover-img: /assets/img/IMG_0009.JPG
 - 🌲  I am working on Violin Suzuki book 5 
 - 📝 2023 一起爬墙刷街写作业吧! 🧗‍♀️ 🏄🏻‍♂️ 
 
-*Updated Jan.21. 2023*
+*Updated Jan.22. 2023*
 
 
 ### Featured Publication
