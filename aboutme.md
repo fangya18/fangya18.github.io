@@ -9,11 +9,11 @@ cover-img: /assets/img/IMG_0009.JPG
 
 - 🐰  I am a Data Science Ph.D. Candidate in Harrisburg University 
 - ✨  My research interests lie in Machine Learning and Survival Analysis 
-- 🎼  I am interested in combine Deep Learning Algorithms in Music and Art
-- 🍊  I play the violin and in the band Hand Squeeze Orange
-- 📝 2023 一起爬墙刷街还写作业吧! 🧗‍♀️ 🏄🏻‍♂️ 
+- 🎼  I want to combine Deep Learning Algorithms in Music and Art
+- 🌲  I am working on Violin Suzuki book 5 
+- 📝 2023 一起爬墙刷街写作业吧! 🧗‍♀️ 🏄🏻‍♂️ 
 
-*Updated Jan.16. 2023*
+*Updated Jan.21. 2023*
 
 
 ### Featured Publication
