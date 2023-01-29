@@ -31,9 +31,9 @@ cover-img: /assets/img/IMG_0009.JPG
 
 ### Favorite Study Goods
 
-- 🖋 Pilot Kanuno :) , Sailor Shikiori 四季予你
+- 🖋 Pilot Kanuno :) ， Sailor Shikiori 四季予你
 - 🦄 Montbanc Toffee, Pilot 冬柿，紫阳花， Lamy Cyan
 - 📒 Midori Notebook Free
-- 📓 Hobonichi 一日一页 一期一会
-- 📚 Leuchtturm1917 5 year dairy
-- 📍 Muji 2023: right here, right now!
+- 📓 Hobonichi： 一日一页 一期一会
+- 📚 Leuchtturm1917： 5 year dairy
+- 📍 Muji 2023: **Right Here, Right Now!**
