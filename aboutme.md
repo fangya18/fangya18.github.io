@@ -8,12 +8,14 @@ cover-img: /assets/img/IMG_0009.JPG
 ### Now
 
 - 🐰  I am a Data Science Ph.D. Candidate in Harrisburg University 
-- ✨  My research interests lie in Machine Learning and Survival Analysis 
+- ✨  My research interests lie in general Machine Learning and Survival Analysis 
 - 🎼  I want to combine Deep Learning Algorithms in Music and Art
 - 🌲  I am working on Violin Suzuki book 5 
-- 📝 2023 一起跑步爬墙刷街冲浪写paper搞音乐吧! 🧗‍♀️ 🏄🏻‍♂️ 
+- 📝 2023 一起跑步yoga爬墙刷街冲浪写paper搞音乐吧! 🧗‍♀️ 🏄🏻‍♂️ 
 
 *Updated Jan.22. 2023*
+
+-- The NowPage is Inspired by X.Wu Renee
 
 
 ### Featured Publication
@@ -31,8 +33,8 @@ cover-img: /assets/img/IMG_0009.JPG
 
 ### Favorite Study Goods
 
-- 🖋 Pilot Kanuno :) ， Sailor Shikiori 四季予你
-- 🦄 Montbanc Toffee, Pilot 冬柿，紫阳花， Lamy Cyan
+- 🖋 Pilot Kanuno :) ， Sailor Shikiori 四季予你, Zebra SaRaSa R
+- 🦄 Montbanc Toffee, Pilot 冬柿，紫阳花， Lamy: Cyan
 - 📒 Midori Notebook Free
 - 📓 Hobonichi： 一日一页 一期一会
 - 📚 Leuchtturm1917： 5 year dairy
