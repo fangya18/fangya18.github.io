@@ -15,7 +15,7 @@ cover-img: /assets/img/IMG_0009.JPG
 
 *Updated Jan.22. 2023*
 
--- The NowPage is Inspired by X.Wu Renee
+-- The NowPage is Inspired by X.W + Renee
 
 
 ### Featured Publication
