@@ -36,6 +36,8 @@ cover-img: /assets/img/IMG_0009.JPG
 - 🧃 Water Bottle
 - 🧼 Meyer Cleaning Refill
 
+-- Inspired by Y.Hou
+
 ### Favorite Study Goods
 
 - 🖋 Pilot Kanuno :) . Sailor Shikiori 四季予你. Zebra SaRaSa R
