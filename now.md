@@ -33,8 +33,9 @@ cover-img: /assets/img/IMG_0009.JPG
 ### 0 Waste Project
 
 - 🍀 Swedish DishCloth
-- 🧃 Water Bottle
-- 🧼 Meyer Cleaning Refill
+- 🧃 Water Bottle, Container
+- 🧴 Meyer Cleaning Refill
+- 🧼 Solid Soap 
 - 🧾 No Receipt
 
 -- Inspired by Y.H
