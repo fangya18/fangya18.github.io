@@ -11,7 +11,7 @@ cover-img: /assets/img/IMG_0009.JPG
 - ✨  My research interests lie in general Machine Learning and Survival Analysis 
 - 🎼  I want to combine Deep Learning Algorithms in Music and Art
 - 🌲  I am working on Violin Suzuki book 5 
-- 📝 2023 一起跑步yoga冥想爬墙刷街冲浪画画写字发paper搞音乐吧! 🧗‍♀️ 🏄🏻‍♂️ 
+- 📝 2023 一起跑步yoga冥想看展爬墙刷街冲浪画画写字发paper搞音乐吧! 🧗‍♀️ 🏄🏻‍♂️ 
 
 *Updated Jan.22. 2023*
 
