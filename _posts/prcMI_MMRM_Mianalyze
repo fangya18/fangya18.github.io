@@ -1,0 +1,44 @@
+SAS Multiple Imputation: Proc MI+ MIXED+ MIanalyze
+Background Story: Handling missing data presents a significant challenge in clinical trials. Patients are often lost to follow-up or lack of efficacy. Ignoring patients with missing data can be inefficient at best but more often can lead to bias. Common methods such as LOCF(Last Observation Carry Forward), and BOCF(Baseline Observation Carry Forward, Best Observation Carry Forward) are frequently utilized. Today, we will explore a sophisticated technique for addressing missing data: Multiple Imputation.
+Note: this simulation is based on MAR : Missing at Random
+
+MAR: if the missingness is independent of the missing values, conditional on the observed variables. Equavlently: if the investigator observes the cause of the missingness, it is missing at random.
+Overview:
+Proc MI to fill in the missing values with appropriate settings for data characteristics and patterns.
+Proc Mixed to fit the MMRM model
+Proc Mianlyze to pull the overall estimates and standard errors that incorporate the variability between the imputed datasets.
+Plot the MMRM results to show the model comparison
+
+Original Missing dataset
+Missing Data1. Proc MI
+*1.Proc MI;
+proc mi data=miss1 seed=198765 nimpute=50 out=i;
+by trt;
+fcs /*Fully Conditional Specification*/;
+var  wk2 wk4 wk6 wk8 wk10 wk12 wk14 wk16;
+run;
+Proc MI Imputed Data2. Mixed Model
+*2. MMRM;
+ods trace on;
+ods output LSMeans=iest Diffs=idf ;
+proc mixed data=i_t1 method=reml covtest;
+by _Imputation_;
+class subjid  trt visit;
+model pchg = visit trt visit*trt/ddfm=sat;
+repeated visit / subject=subjid type=UN;
+lsmeans visit*trt/ diff cl alpha=0.05 cov;
+run;
+ods trace off; 
+MMRM result3. Proc MIanalyze
+*3. Missing imputation;
+ods trace on;
+ods output ParameterEstimates=m_t ;
+proc mianalyze parms=t;
+class visit   ;
+modeleffects   visit*trt;/* Replace with your actual model terms */
+run;
+ods trace off;
+MIanalyze Result4. Model Result Comparison
+In examining this dataset, we observe that the results from a direct MMRM analysis on the missing data are strikingly similar to those obtained through Multiple Imputation (Proc MIanalyze). The fully adjusted simulated dataset shows a significant percentage change in results at weeks 12, 14, and 16. This improvement is anticipated as we expect an increase in missing data in the later weeks, primarily due to factors such as lack of efficacy or participant dropout.
+Happy Studying!
+Ref: Thanks y.l, h.x, d.y for sharing the coding process and the thinking process!
