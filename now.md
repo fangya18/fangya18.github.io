@@ -11,7 +11,7 @@ cover-img: /assets/img/IMG_0009.JPG
 - ✨  My research interests lie in general Machine Learning, Missing data, MMRM, and Survival Analysis 
 - 🎼  I want to combine Deep Learning Algorithms in Music and Art
 - 🌲  I am working on Violin Suzuki book 5 
-- 📝 2024 一起练琴跑步yoga冥想爬墙发paper吧! 🧗‍♀️ 🏄
+- 📝 2025 一起练琴跑步yoga冥想爬墙发paper吧! 🧗‍♀️ 🏄
 
 *Updated Jan.31. 2025*
 
@@ -47,3 +47,4 @@ cover-img: /assets/img/IMG_0009.JPG
 - 📚 Suzhou Museum Flowers, Travelers Plan Passport Size
 - 📓 Hobonichi 5 Year A6： 一日一页 一期一会
 - 📍 MUJI wide 2025: **Right Here, Right Now!**
+  
