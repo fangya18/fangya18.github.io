@@ -8,12 +8,12 @@ cover-img: /assets/img/IMG_0009.JPG
 ### Now
 
 - 🐰  I am a Data Science Ph.D. Candidate in Harrisburg University 
-- ✨  My research interests lie in general Machine Learning and Survival Analysis 
+- ✨  My research interests lie in general Machine Learning, Missing data, MMRM, and Survival Analysis 
 - 🎼  I want to combine Deep Learning Algorithms in Music and Art
 - 🌲  I am working on Violin Suzuki book 5 
-- 📝 2024 一起练琴跑步yoga冥想爬墙滑雪发paper吧! 🧗‍♀️ 🏄
+- 📝 2024 一起练琴跑步yoga冥想爬墙发paper吧! 🧗‍♀️ 🏄
 
-*Updated Jan.3. 2024*
+*Updated Jan.31. 2025*
 
 -- The NowPage is Inspired by Xiao.W 
 
@@ -42,8 +42,8 @@ cover-img: /assets/img/IMG_0009.JPG
 
 ### Favorite Study Goods
 
-- 🖋 Pilot Kanuno :) . Sailor Shikiori 四季予你. Zebra SaRaSa R
-- 🦄 Montbanc: Toffee. Pilot: 冬柿.紫阳花. Lamy: Cyan. Sailor: 极黑
-- 📚 Midori Notebook Free, Moleskin Voyageur
-- 📓 Hobonichi 5 Year： 一日一页 一期一会
-- 📍 Filofax 2024: **Right Here, Right Now!**
+- 🖋 Pilot Kanuno :) . Sailor Shikiori 四季予你.
+- 🦄 Montbanc: Toffee. Pilot: 冬柿.紫阳花. Lamy: Alice Wonderland. Sailor: 极黑
+- 📚 Suzhou Museum Flowers, Travelers Plan Passport Size
+- 📓 Hobonichi 5 Year A6： 一日一页 一期一会
+- 📍 MUJI wide 2025: **Right Here, Right Now!**
